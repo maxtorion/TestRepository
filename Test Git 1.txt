@@ -1,1 +1,1 @@
-Zmiana 2
+Zmiana na potrzeby git pull
